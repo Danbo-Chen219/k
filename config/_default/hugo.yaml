@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: 'Danbo(Kirby)'s Blog'
+title: "Danbo(Kirby)'s Blog"
 # Website URL
 baseURL: 'https://danbo_kirby.com/'
 

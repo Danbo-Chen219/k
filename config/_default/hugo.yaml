@@ -6,7 +6,7 @@
 # Website name
 title: "Danbo(Kirby)'s Blog"
 # Website URL
-baseURL: 'https://danbo_kirby.com/'
+baseURL: 'http://www.danbochen.com/'
 
 ############################
 ## LANGUAGE
